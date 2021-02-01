@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\bin\Debug\netcoreapp3.1\Invoice_OCP.exe
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\bin\Debug\netcoreapp3.1\Invoice_OCP.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\bin\Debug\netcoreapp3.1\Invoice_OCP.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\bin\Debug\netcoreapp3.1\Invoice_OCP.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\bin\Debug\netcoreapp3.1\Invoice_OCP.dll
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\bin\Debug\netcoreapp3.1\Invoice_OCP.pdb
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.dll
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.pdb
+C:\Users\Sai Baba\Desktop\innRoad\Invoice_OCP\obj\Debug\netcoreapp3.1\Invoice_OCP.genruntimeconfig.cache

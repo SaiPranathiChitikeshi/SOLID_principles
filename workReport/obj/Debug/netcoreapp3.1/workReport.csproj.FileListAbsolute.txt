@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\workReport\bin\Debug\netcoreapp3.1\workReport.exe
+C:\Users\Sai Baba\Desktop\innRoad\workReport\bin\Debug\netcoreapp3.1\workReport.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\workReport\bin\Debug\netcoreapp3.1\workReport.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\workReport\bin\Debug\netcoreapp3.1\workReport.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\workReport\bin\Debug\netcoreapp3.1\workReport.dll
+C:\Users\Sai Baba\Desktop\innRoad\workReport\bin\Debug\netcoreapp3.1\workReport.pdb
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.dll
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.pdb
+C:\Users\Sai Baba\Desktop\innRoad\workReport\obj\Debug\netcoreapp3.1\workReport.genruntimeconfig.cache
