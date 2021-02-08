@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankSaving_LSP/1.0.0": {
+        "runtime": {
+          "BankSaving_LSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankSaving_LSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\bin\Debug\netcoreapp3.1\SalaryCalculation_ISP.exe
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\bin\Debug\netcoreapp3.1\SalaryCalculation_ISP.deps.json
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\bin\Debug\netcoreapp3.1\SalaryCalculation_ISP.runtimeconfig.json
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\bin\Debug\netcoreapp3.1\SalaryCalculation_ISP.runtimeconfig.dev.json
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\bin\Debug\netcoreapp3.1\SalaryCalculation_ISP.dll
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\bin\Debug\netcoreapp3.1\SalaryCalculation_ISP.pdb
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.csprojAssemblyReference.cache
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.AssemblyInfoInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.AssemblyInfo.cs
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.csproj.CoreCompileInputs.cache
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.dll
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.pdb
+C:\Users\Sai Baba\Desktop\innRoad\SalaryCalculation_ISP\obj\Debug\netcoreapp3.1\SalaryCalculation_ISP.genruntimeconfig.cache
